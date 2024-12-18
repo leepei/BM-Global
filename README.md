@@ -14,10 +14,10 @@ The subproblem solver for the QSDP problem is the trust-region algorithm in the 
 
 ## Installation
 To compile the code, you will need to install MATLAB and gcc (or other compiler for C++ compatible with MATLAB).
-Implementation for the matrix completion problem is contained in the folder [MF](https://www.github.com/leepei/BM-Global/MF).
+Implementation for the matrix completion problem is contained in the folder [MF](https://github.com/leepei/BM-Global/tree/main/MF).
 To compile the code, enter this folder in MATLAB and run install.m.
 
-The implementation ofr the QSDP problem is contained in the folder [EDME](https://www.github.com/leepei/BM-Global/EDME).
+The implementation ofr the QSDP problem is contained in the folder [EDME](https://www.github.com/leepei/BM-Global/tree/main/EDME).
 To run the code, please download manopt first and extract it to the folder EDME/manopt.
 You might need to enter EDME/solvers/mexfun/ and run make.m to recompile some C++ code if the precompiled files are not compatible with your system.
 
