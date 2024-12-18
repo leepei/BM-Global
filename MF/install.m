@@ -1,0 +1,3 @@
+cd cppcode;
+make;
+cd ..;

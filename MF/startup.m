@@ -1,0 +1,2 @@
+addpath('cppcode');
+addpath('main');
